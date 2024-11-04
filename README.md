@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=9F46F7&width=435&lines=Whoami%3F;Software+Engineer;Graduate+Student;Security+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=9F46F7&width=435&lines=Whoami%3F;UserErr0r;Software+Engineer;Graduate+Student;Security+Researcher)](https://git.io/typing-svg)
 
 
 Currently, I’m working on my Master’s in Computer Science @ Georgia Tech (OMSCS), while working full-time and a father!
