@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=whoami\?;Second+line+of+text](https://readme-typing-svg.demolab.com/?lines=whoami?;Software+Engineer;Graduate+Student;Security+Researcher;))](https://git.io/typing-svg)
 <!--
 **TonyDuran/TonyDuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
