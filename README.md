@@ -16,9 +16,14 @@ Most of my work are in private repos at this time, but if you're interested to l
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,latex)](https://skillicons.dev)
 
 ## 2025 Roadmap
-- 📚 Master Linear Algebra and Calculus: Build a solid mathematical foundation to support advanced learning and problem-solving.
-- 📖 Engage More in My Book Club: Actively participate and contribute to discussions, fostering personal growth and connection with others.
-- 🎓 Excel in School: Maintain strong academic performance and strive for excellence in my coursework.
-- 💻 Improve Programming Skills: Deepen my proficiency in C++ and Golang to expand my technical expertise and versatility.
-- 🛡️ Complete HackTheBox Certifications: Finish certifications at HTB CDSA, CBBH, CPTS, and CWEE, driven by my love for HackTheBox's content and the exciting challenges they provide.
-- 🏆 Achieve PNPT Certification: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor.
+- 🏆 **Achieve PNPT Certification**: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor. 
+- 🛡️ **Complete HackTheBox Certifications**: Driven by my love for HackTheBox's content and the exciting challenges they provide:  
+  - **CDSA**  
+  - **CBBH**  
+  - **CPTS**  
+  - **CWEE**
+- 📖 **Engage More in My Book Club**: Actively participate and contribute to discussions, fostering personal growth and connection with others.  
+- 📚 **Master Linear Algebra and Calculus**: Build a solid mathematical foundation to support advanced learning and problem-solving.  
+- 🎓 **Excel in School**: Maintain strong academic performance and strive for excellence in my coursework.  
+- 💻 **Improve Programming Skills**: Deepen my proficiency in C++ and Golang to expand my technical expertise and versatility.  
+
