@@ -18,10 +18,11 @@ Most of my work are in private repos at this time, but if you're interested to l
 ## 2025 Roadmap
 - 🏆 **Achieve PNPT Certification**: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor. 
 - 🛡️ **Complete HackTheBox Certifications**: Driven by my love for HackTheBox's content and the exciting challenges they provide:  
-  - **CDSA**  
-  - **CBBH**  
-  - **CPTS**  
-  - **CWEE**
+  - **Certified Bug Bounty Hunter (CBBH)**
+  - **Certified Penetration Testing Specialist (CPTS)**  
+  - **Certified Web Exploitation Expert (CWEE)**
+  - **Certified Active Directory Pentesting Expert (CAPE)**
+  - **Certified Defensive Security Analyst (CDSA)**
 - 📖 **Engage More in My Book Club**: Actively participate and contribute to discussions, fostering personal growth and connection with others.  
 - 📚 **Master Linear Algebra and Calculus**: Build a solid mathematical foundation to support advanced learning and problem-solving.  
 - 🎓 **Excel in School**: Maintain strong academic performance and strive for excellence in my coursework.  
