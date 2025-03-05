@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=9F46F7&width=435&lines=Whoami%3F;UserErr0r;Software+Engineer;Graduate+Student;Security+Researcher)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=1000&color=9F46F7&width=435&lines=Whoami%3F;UserErr0r;Software+Engineer;Graduate+Student;Security+Researcher)](https://git.io/typing-svg)
 
 ## About Me
 My name is Tony (aka UserErr0r) and I am currently working on my Master’s in Computer Science @ Georgia Tech (OMSCS program), while working full-time and a being dad.
@@ -18,7 +18,8 @@ Most of my work are in private repos at this time, but if you're interested to l
 ## 2025 Roadmap
 - 🏆 **Achieve PNPT Certification**: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor. 
 - 🛡️ **Complete HackTheBox Certifications**: Driven by my love for HackTheBox's content and the exciting challenges they provide:  
-  - **Certified Bug Bounty Hunter (CBBH)**
+  - ~~**Certified Bug Bounty Hunter (CBBH)**~~ $${\textsf{\color{green}100/100 - Waiting on the results, but finished the exam March 2025}}$$
+
   - **Certified Penetration Testing Specialist (CPTS)**  
   - **Certified Web Exploitation Expert (CWEE)**
   - **Certified Active Directory Pentesting Expert (CAPE)**
