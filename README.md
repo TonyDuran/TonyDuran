@@ -18,8 +18,7 @@ Most of my work are in private repos at this time, but if you're interested to l
 ## 2025 Roadmap
 - 🏆 **Achieve PNPT Certification**: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor. 
 - 🛡️ **Complete HackTheBox Certifications**: Driven by my love for HackTheBox's content and the exciting challenges they provide:  
-  - ~~**Certified Bug Bounty Hunter (CBBH)**~~ $${\textsf{\color{green}100/100 - Waiting on the results, but finished the exam March 2025}}$$
-
+  - ~~**Certified Bug Bounty Hunter (CBBH)**~~ ✅
   - **Certified Penetration Testing Specialist (CPTS)**  
   - **Certified Web Exploitation Expert (CWEE)**
   - **Certified Active Directory Pentesting Expert (CAPE)**
