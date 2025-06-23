@@ -16,7 +16,7 @@ Most of my work are in private repos at this time, but if you're interested to l
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,latex)](https://skillicons.dev)
 
 ## 2025 Roadmap
-- 🏆 **Achieve PNPT Certification**: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor. 
+- 🏆 ~~**Achieve PNPT Certification**: Fulfill my promise to myself to complete PNPT, a commitment I’m determined to honor.~~ ✅
 - 🛡️ **Complete HackTheBox Certifications**: Driven by my love for HackTheBox's content and the exciting challenges they provide:  
   - ~~**Certified Bug Bounty Hunter (CBBH)**~~ ✅
   - **Certified Penetration Testing Specialist (CPTS)**  
